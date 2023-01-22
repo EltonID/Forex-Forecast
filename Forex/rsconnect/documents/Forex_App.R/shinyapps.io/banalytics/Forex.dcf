@@ -1,0 +1,13 @@
+name: Forex
+title: Forex
+username:
+account: banalytics
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7115459
+bundleId: 6761153
+url: https://banalytics.shinyapps.io/Forex/
+when: 1674406623.21139
+lastSyncTime: 1674406623.2114
+asMultiple: FALSE
+asStatic: FALSE
